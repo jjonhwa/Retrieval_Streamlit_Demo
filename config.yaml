@@ -1,4 +1,4 @@
-q_encoder_path: './assets/q_encoder.pt'
-passage_embedding_path: './assets/passage_embedding.bin'
-c_encoder_path: './assets/c_encoder.pt'
+q_encoder_path: './assets/q_encoder_special_customsample_augmentation_20.pt'
+passage_embedding_path: './assets/passage_embedding_special_customsample_augmentation_20.bin'
+c_encoder_path: './assets/c_roberta_encoder_e40_b16.pt'
 wikipedia_path: './assets/wikipedia_documents.json'
