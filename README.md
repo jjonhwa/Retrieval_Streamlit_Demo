@@ -24,3 +24,4 @@ streamlit run app.py
 ```
 
 <img src='https://user-images.githubusercontent.com/53552847/145511056-0fa31347-d113-434c-b4a3-d25bee76bd49.mp4'>
+https://user-images.githubusercontent.com/53552847/145511056-0fa31347-d113-434c-b4a3-d25bee76bd49.mp4
