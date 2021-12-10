@@ -23,5 +23,6 @@ cd .. # clone 폴더로 이동
 streamlit run app.py
 ```
 
-![Web Demo]<img src='https://user-images.githubusercontent.com/53552847/145511056-0fa31347-d113-434c-b4a3-d25bee76bd49.mp4'>
+![Web Demo]<img src='![Hnet-image](https://user-images.githubusercontent.com/53552847/145511764-1bcb4541-1644-4719-99a9-1b692bda9ab4.gif)
+'>
 
