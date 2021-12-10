@@ -1,0 +1,4 @@
+q_encoder_path: './assets/q_encoder.pt'
+passage_embedding_path: './assets/passage_embedding.bin'
+c_encoder_path: './assets/c_encoder.pt'
+wikipedia_path: './assets/wikipedia_documents.json'
